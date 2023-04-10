@@ -11,3 +11,8 @@ int main()
   printf("%d\n",&c);
   return 0;
 }
+
+void swap(int a, int b){
+  
+}
+
